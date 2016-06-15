@@ -1,2 +1,3 @@
 # google-homepage
-Recreating the Google homepage (Odin: Project HTML/CSS)
+Recreating the Google homepage (Odin Project: HTML/CSS)
+http://www.theodinproject.com/web-development-101/html-css
